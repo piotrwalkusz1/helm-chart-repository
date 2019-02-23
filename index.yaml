@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  justdoit:
+  - apiVersion: v1
+    created: 2019-02-23T20:45:43.928157285+01:00
+    digest: 44137fc43a31c82e78b8ffc45cf6398f21fad2fc22f85f2d69b68c0d8e1c85a2
+    name: justdoit
+    urls:
+    - https://piotrwalkusz1.github.io/helm-chart-repository/justdoit-0.0.1.tgz
+    version: 0.0.1
+generated: 2019-02-23T20:45:43.927584612+01:00
